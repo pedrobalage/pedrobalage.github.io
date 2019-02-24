@@ -18,4 +18,4 @@ I am affiliated to the <a href="https://www.it.pt/">Instituto de Telecomunica√ß√
 
 Most of my background and experience are in the fields of Natural Language Processing, Machine Learning and Deep Learning.  
 
-I live the the beautiful Lisbon - Portugal.
+I live in the beautiful Lisbon - Portugal.
