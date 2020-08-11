@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Pedro Balage</strong>
-description: Lead NLP Engineer @@<a href="https://www.definedcrowd.com/">DefinedCrowd</a> | Researcher at <a href="https://www.it.pt/">IT-Lisboa</a> | <a href="http://lxmls.it.pt/2019/">LxMLS</a> Organizer
+description: Lead NLP Engineer @<a href="https://www.definedcrowd.com/">DefinedCrowd</a> | Researcher at <a href="https://www.it.pt/">IT-Lisboa</a> | <a href="http://lxmls.it.pt/2019/">LxMLS</a> Organizer
 
 profile:
   align: right
